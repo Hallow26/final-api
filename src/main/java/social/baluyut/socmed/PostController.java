@@ -8,7 +8,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/posts")
-@CrossOrigin(origins = {"http://localhost:5173", "https://final-ui-liart.vercel.app/"}) // Add Vercel frontend URL here
+@CrossOrigin(origins = {"http://localhost:5173", "https://final-ui-u7n1.vercel.app/"}) // Add Vercel frontend URL here
 public class PostController {
     @Autowired
     private PostRepository postRepository;
