@@ -8,11 +8,11 @@
         <version>3.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.acuna.post</groupId>
+    <groupId>com.baluyut.post</groupId>
     <artifactId>socialmedia</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>socialmedia</name>
-    <description>socialmedia</description>
+    <name>final-api</name>
+    <description>final-api</description>
     <url/>
     <licenses>
         <license/>
